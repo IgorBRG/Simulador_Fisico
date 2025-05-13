@@ -1,0 +1,24 @@
+{
+    "formulas":[
+        {
+            "id": 1,
+            "nome":"Queda Livre",
+            "equacao":"v=math.sqrt(2*g*h)",
+            "descricao":"Calcula a velocidade final de um corpo em queda livre a partir da altura e da aceleração da gravidade."
+
+        },
+
+        {
+            "id": 2,
+            "nome": "MUA",
+            "equacao": "s=s0+v0*t+1/2*a*t^2",
+            "descricao": "Calcula a posição de um corpo em movimento uniformemente acelerado a partir da posição inicial, velocidade inicial, aceleração e tempo."
+        },
+        {
+            "id": "3",
+            "nome": "Colisões",
+            "equacao": "m1*v1+m2*v2=m1*v1'+m2*v2'",
+            "descricao": "Calcula a quantidade de movimento de dois corpos em colisão a partir das massas e velocidades iniciais e finais."
+        }
+    ]
+}
